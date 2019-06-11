@@ -1,2 +1,2 @@
 # SimTransE
-Code comming soon!
+Data comming soon!
