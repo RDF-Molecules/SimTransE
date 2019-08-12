@@ -1,0 +1,753 @@
+Prediction	Drug	Target	IsInteractive	IsTrueTriple	Density	result
+Interactive	D00059	hsa1812	Yes	Yes	2.5	3.2319608
+Interactive	D00059	hsa1813	Yes	Yes	2.5	3.5197785
+Interactive	D00059	hsa1814	Yes	2.5	2.6895623
+Interactive	D00079	hsa5739	Yes	Yes	2.5	2.7974498
+Interactive	D00094	hsa11255	Yes	2.5	-2.619257
+Interactive	D00094	hsa9052	Yes	Yes	2.5	3.2205882
+Interactive	D00095	hsa146	Yes	2.5	2.58952
+Interactive	D00095	hsa148	Yes	Yes	2.5	3.1798596
+Interactive	D00095	hsa153	Yes	Yes	2.5	3.2751975
+Interactive	D00095	hsa154	Yes	Yes	2.5	3.941343
+Interactive	D00095	hsa155	Yes	2.5	2.6738482
+Interactive	D00106	hsa64805	Yes	Yes	2.5	2.7768502
+Interactive	D00110	hsa1812	Yes	Yes	2.5	3.0836096
+Interactive	D00110	hsa1814	Yes	Yes	2.5	4.0384345
+Interactive	D00110	hsa2911	Yes	2.5	2.5048459
+Interactive	D00110	hsa2915	Yes	2.5	2.52649
+Interactive	D00110	hsa4986	Yes	Yes	2.5	3.2242599
+Interactive	D00113	hsa1128	Yes	Yes	2.5	4.33222
+Interactive	D00113	hsa1129	Yes	Yes	2.5	3.5780635
+Interactive	D00113	hsa1131	Yes	Yes	2.5	4.1891494
+Interactive	D00113	hsa1132	Yes	Yes	2.5	3.3355389
+Interactive	D00113	hsa1133	Yes	Yes	2.5	3.8141632
+Interactive	D00136	hsa150	Yes	Yes	2.5	3.699412
+Interactive	D00136	hsa151	Yes	Yes	2.5	3.5054507
+Interactive	D00136	hsa152	Yes	2.5	2.7919614
+Interactive	D00136	hsa1813	Yes	Yes	2.5	2.8156362
+Interactive	D00136	hsa1814	Yes	Yes	2.5	3.1738298
+Interactive	D00139	hsa3577	Yes	Yes	2.5	3.653464
+Interactive	D00180	hsa5731	Yes	Yes	2.5	3.3122685
+Interactive	D00180	hsa5732	Yes	Yes	2.5	3.0175874
+Interactive	D00180	hsa5737	Yes	2.5	2.535019
+Interactive	D00180	hsa5739	Yes	Yes	2.5	2.9107556
+Interactive	D00225	hsa3577	Yes	Yes	2.5	3.4976861
+Interactive	D00227	hsa134	Yes	Yes	2.5	3.3775454
+Interactive	D00227	hsa135	Yes	Yes	2.5	3.4370055
+Interactive	D00227	hsa140	Yes	Yes	2.5	2.7988453
+Interactive	D00232	hsa1128	Yes	Yes	2.5	3.8264976
+Interactive	D00232	hsa1129	Yes	Yes	2.5	2.986835
+Interactive	D00232	hsa1131	Yes	Yes	2.5	3.6646495
+Interactive	D00234	hsa11255	Yes	Yes	2.5	2.6188157
+Interactive	D00234	hsa3269	Yes	Yes	2.5	3.650967
+Interactive	D00234	hsa59340	Yes	Yes	2.5	2.9433749
+Interactive	D00235	hsa153	Yes	Yes	2.5	3.3311715
+Interactive	D00235	hsa154	Yes	Yes	2.5	3.7927039
+Interactive	D00241	hsa154	Yes	2.5	2.6654248
+Interactive	D00255	hsa146	Yes	Yes	2.5	4.810136
+Interactive	D00255	hsa147	Yes	Yes	2.5	4.4062624
+Interactive	D00255	hsa148	Yes	Yes	2.5	4.752221
+Interactive	D00255	hsa150	Yes	Yes	2.5	4.14098
+Interactive	D00255	hsa151	Yes	Yes	2.5	4.5312815
+Interactive	D00255	hsa152	Yes	2.5	2.8060217
+Interactive	D00255	hsa153	Yes	Yes	2.5	3.8126776
+Interactive	D00255	hsa154	Yes	Yes	2.5	3.595332
+Interactive	D00255	hsa155	Yes	Yes	2.5	3.3883982
+Interactive	D00270	hsa148	Yes	2.5	2.5821729
+Interactive	D00270	hsa150	Yes	Yes	2.5	3.0645132
+Interactive	D00270	hsa151	Yes	Yes	2.5	3.369125
+Interactive	D00270	hsa152	Yes	2.5	3.016992
+Interactive	D00270	hsa1812	Yes	Yes	2.5	3.344388
+Interactive	D00270	hsa1813	Yes	Yes	2.5	3.1953871
+Interactive	D00270	hsa1814	Yes	Yes	2.5	3.7014248
+Interactive	D00270	hsa1816	Yes	Yes	2.5	3.4598315
+Interactive	D00270	hsa3356	Yes	Yes	2.5	3.4003778
+Interactive	D00274	hsa1128	Yes	Yes	2.5	4.367117
+Interactive	D00274	hsa1129	Yes	Yes	2.5	4.04188
+Interactive	D00274	hsa3360	Yes	Yes	2.5	3.085458
+Interactive	D00281	hsa146	Yes	Yes	2.5	2.836357
+Interactive	D00281	hsa147	Yes	Yes	2.5	3.0140355
+Interactive	D00281	hsa148	Yes	Yes	2.5	2.8837457
+Interactive	D00281	hsa150	Yes	Yes	2.5	2.9600143
+Interactive	D00281	hsa151	Yes	Yes	2.5	2.6300678
+Interactive	D00281	hsa152	Yes	Yes	2.5	3.171206
+Interactive	D00283	hsa1128	Yes	Yes	2.5	5.0034513
+Interactive	D00283	hsa1129	Yes	Yes	2.5	4.4350953
+Interactive	D00283	hsa1131	Yes	2.5	3.3571324
+Interactive	D00283	hsa1132	Yes	2.5	3.0556479
+Interactive	D00283	hsa1133	Yes	2.5	3.56261
+Interactive	D00283	hsa146	Yes	Yes	2.5	4.2679577
+Interactive	D00283	hsa147	Yes	Yes	2.5	4.799144
+Interactive	D00283	hsa148	Yes	Yes	2.5	5.1171007
+Interactive	D00283	hsa150	Yes	Yes	2.5	3.1224768
+Interactive	D00283	hsa151	Yes	Yes	2.5	3.7596855
+Interactive	D00283	hsa152	Yes	2.5	3.3315988
+Interactive	D00283	hsa153	Yes	2.5	3.379129
+Interactive	D00283	hsa155	Yes	2.5	2.6013298
+Interactive	D00283	hsa1812	Yes	Yes	2.5	5.6280727
+Interactive	D00283	hsa1813	Yes	Yes	2.5	6.24242
+Interactive	D00283	hsa1814	Yes	2.5	5.395298
+Interactive	D00283	hsa1815	Yes	Yes	2.5	3.5509505
+Interactive	D00283	hsa1816	Yes	Yes	2.5	5.726324
+Interactive	D00283	hsa3269	Yes	Yes	2.5	3.808434
+Interactive	D00283	hsa3350	Yes	Yes	2.5	5.3966713
+Interactive	D00283	hsa3351	Yes	Yes	2.5	4.166202
+Interactive	D00283	hsa3352	Yes	Yes	2.5	4.523665
+Interactive	D00283	hsa3354	Yes	Yes	2.5	4.6075444
+Interactive	D00283	hsa3355	Yes	Yes	2.5	4.889653
+Interactive	D00283	hsa3356	Yes	Yes	2.5	7.596738
+Interactive	D00283	hsa3357	Yes	Yes	2.5	4.7093983
+Interactive	D00283	hsa3358	Yes	Yes	2.5	5.8495064
+Interactive	D00283	hsa3360	Yes	Yes	2.5	3.2676916
+Interactive	D00283	hsa3361	Yes	Yes	2.5	3.91746
+Interactive	D00283	hsa3362	Yes	Yes	2.5	4.8512955
+Interactive	D00283	hsa3363	Yes	Yes	2.5	5.2958007
+Interactive	D00283	hsa59340	Yes	Yes	2.5	3.3287983
+Interactive	D00300	hsa11255	Yes	Yes	2.5	2.541948
+Interactive	D00300	hsa1128	Yes	2.5	2.8681693
+Interactive	D00300	hsa1129	Yes	2.5	2.7852194
+Interactive	D00300	hsa3269	Yes	Yes	2.5	3.4630208
+Interactive	D00300	hsa59340	Yes	Yes	2.5	3.268506
+Interactive	D00318	hsa11255	Yes	Yes	2.5	2.540019
+Interactive	D00318	hsa3274	Yes	Yes	2.5	2.6203063
+Interactive	D00332	hsa150	Yes	Yes	2.5	4.166026
+Interactive	D00332	hsa151	Yes	2.5	3.1296184
+Interactive	D00336	hsa6915	Yes	Yes	2.5	2.7769818
+Interactive	D00364	hsa3269	Yes	Yes	2.5	3.2473016
+Interactive	D00371	hsa134	Yes	2.5	2.823397
+Interactive	D00371	hsa135	Yes	2.5	2.803526
+Interactive	D00371	hsa136	Yes	Yes	2.5	2.8751197
+Interactive	D00380	hsa3577	Yes	Yes	2.5	3.7359834
+Interactive	D00394	hsa3577	Yes	Yes	2.5	3.1731706
+Interactive	D00397	hsa1128	Yes	Yes	2.5	3.5737638
+Interactive	D00397	hsa1129	Yes	Yes	2.5	3.9188013
+Interactive	D00397	hsa1131	Yes	2.5	2.6160204
+Interactive	D00397	hsa1132	Yes	Yes	2.5	2.8444362
+Interactive	D00397	hsa1133	Yes	2.5	2.9113595
+Interactive	D00397	hsa3269	Yes	2.5	2.8135004
+Interactive	D00400	hsa185	Yes	Yes	2.5	3.0672972
+Interactive	D00410	hsa3356	Yes	2.5	2.7030923
+Interactive	D00410	hsa3577	Yes	Yes	2.5	3.1154318
+Interactive	D00411	hsa1241	Yes	Yes	2.5	3.2445853
+Interactive	D00411	hsa56413	Yes	Yes	2.5	2.9773455
+Interactive	D00411	hsa57105	Yes	Yes	2.5	2.5691001
+Interactive	D00415	hsa3351	Yes	Yes	2.5	2.7606764
+Interactive	D00415	hsa3352	Yes	Yes	2.5	2.8818572
+Interactive	D00419	hsa5731	Yes	2.5	2.7269728
+Interactive	D00419	hsa5732	Yes	Yes	2.5	2.945524
+Interactive	D00419	hsa5737	Yes	2.5	2.9231763
+Interactive	D00422	hsa3274	Yes	Yes	2.5	2.9673326
+Interactive	D00426	hsa146	Yes	Yes	2.5	4.0102444
+Interactive	D00426	hsa147	Yes	Yes	2.5	4.081654
+Interactive	D00426	hsa148	Yes	Yes	2.5	4.2937546
+Interactive	D00426	hsa3350	Yes	2.5	2.7638586
+Interactive	D00426	hsa3356	Yes	Yes	2.5	4.3833213
+Interactive	D00426	hsa3358	Yes	2.5	2.9985151
+Interactive	D00432	hsa153	Yes	Yes	2.5	4.003034
+Interactive	D00432	hsa154	Yes	Yes	2.5	4.1750865
+Interactive	D00432	hsa155	Yes	Yes	2.5	3.2807317
+Interactive	D00437	hsa146	Yes	Yes	2.5	5.5632305
+Interactive	D00437	hsa147	Yes	Yes	2.5	5.1119843
+Interactive	D00437	hsa148	Yes	Yes	2.5	4.291957
+Interactive	D00437	hsa150	Yes	Yes	2.5	4.1858616
+Interactive	D00437	hsa151	Yes	Yes	2.5	4.1366525
+Interactive	D00437	hsa152	Yes	2.5	2.6433783
+Interactive	D00437	hsa153	Yes	Yes	2.5	4.1382313
+Interactive	D00437	hsa154	Yes	Yes	2.5	3.896737
+Interactive	D00437	hsa155	Yes	Yes	2.5	3.5059311
+Interactive	D00437	hsa3577	Yes	Yes	2.5	3.7060204
+Interactive	D00440	hsa3274	Yes	Yes	2.5	3.4893374
+Interactive	D00442	hsa6751	Yes	Yes	2.5	2.73923
+Interactive	D00442	hsa6752	Yes	Yes	2.5	2.9890501
+Interactive	D00443	hsa185	Yes	Yes	2.5	3.1085393
+Interactive	D00451	hsa3350	Yes	Yes	2.5	3.2729387
+Interactive	D00451	hsa3351	Yes	Yes	2.5	3.2073379
+Interactive	D00451	hsa3352	Yes	Yes	2.5	3.93972
+Interactive	D00451	hsa3354	Yes	Yes	2.5	3.2052665
+Interactive	D00451	hsa3355	Yes	Yes	2.5	3.7855856
+Interactive	D00451	hsa3356	Yes	Yes	2.5	3.3735585
+Interactive	D00451	hsa3357	Yes	Yes	2.5	3.9857392
+Interactive	D00451	hsa3358	Yes	Yes	2.5	3.6873112
+Interactive	D00451	hsa3360	Yes	Yes	2.5	2.805063
+Interactive	D00451	hsa3361	Yes	Yes	2.5	2.6133559
+Interactive	D00451	hsa3362	Yes	Yes	2.5	2.8022652
+Interactive	D00451	hsa3363	Yes	2.5	2.6155524
+Interactive	D00454	hsa1128	Yes	Yes	2.5	3.9502575
+Interactive	D00454	hsa1129	Yes	Yes	2.5	4.4128914
+Interactive	D00454	hsa1131	Yes	Yes	2.5	3.8614137
+Interactive	D00454	hsa1132	Yes	Yes	2.5	3.4339776
+Interactive	D00454	hsa1133	Yes	Yes	2.5	3.925997
+Interactive	D00454	hsa146	Yes	Yes	2.5	3.8602216
+Interactive	D00454	hsa147	Yes	Yes	2.5	4.6550393
+Interactive	D00454	hsa148	Yes	Yes	2.5	5.315822
+Interactive	D00454	hsa151	Yes	Yes	2.5	3.0928614
+Interactive	D00454	hsa152	Yes	2.5	2.6629767
+Interactive	D00454	hsa153	Yes	Yes	2.5	4.440774
+Interactive	D00454	hsa154	Yes	Yes	2.5	2.8025258
+Interactive	D00454	hsa155	Yes	Yes	2.5	3.9464703
+Interactive	D00454	hsa1812	Yes	Yes	2.5	5.605917
+Interactive	D00454	hsa1813	Yes	Yes	2.5	5.586795
+Interactive	D00454	hsa1814	Yes	Yes	2.5	5.6434975
+Interactive	D00454	hsa1815	Yes	Yes	2.5	3.1903467
+Interactive	D00454	hsa1816	Yes	Yes	2.5	5.8013277
+Interactive	D00454	hsa3269	Yes	Yes	2.5	3.2989523
+Interactive	D00454	hsa3350	Yes	2.5	3.1929984
+Interactive	D00454	hsa3356	Yes	Yes	2.5	6.4765024
+Interactive	D00454	hsa3357	Yes	2.5	3.1402235
+Interactive	D00454	hsa3358	Yes	Yes	2.5	4.6070414
+Interactive	D00454	hsa3361	Yes	2.5	2.7113807
+Interactive	D00454	hsa3362	Yes	Yes	2.5	4.019674
+Interactive	D00454	hsa3363	Yes	2.5	3.3614917
+Interactive	D00465	hsa1128	Yes	Yes	2.5	4.5640726
+Interactive	D00465	hsa1129	Yes	Yes	2.5	4.450615
+Interactive	D00465	hsa1131	Yes	2.5	3.2450209
+Interactive	D00465	hsa1132	Yes	2.5	2.8940725
+Interactive	D00465	hsa1133	Yes	2.5	2.9720848
+Interactive	D00480	hsa3269	Yes	Yes	2.5	3.6996002
+Interactive	D00483	hsa153	Yes	Yes	2.5	3.4368787
+Interactive	D00483	hsa154	Yes	Yes	2.5	3.5202074
+Interactive	D00493	hsa1128	Yes	2.5	2.637229
+Interactive	D00493	hsa1812	Yes	Yes	2.5	4.246454
+Interactive	D00493	hsa1813	Yes	Yes	2.5	5.583064
+Interactive	D00493	hsa1814	Yes	Yes	2.5	4.5711923
+Interactive	D00493	hsa1816	Yes	Yes	2.5	5.3410444
+Interactive	D00493	hsa3269	Yes	Yes	2.5	3.4098487
+Interactive	D00493	hsa3356	Yes	Yes	2.5	4.7185335
+Interactive	D00494	hsa1128	Yes	Yes	2.5	5.759306
+Interactive	D00494	hsa1129	Yes	Yes	2.5	5.9680433
+Interactive	D00494	hsa1131	Yes	Yes	2.5	4.8705482
+Interactive	D00494	hsa1132	Yes	Yes	2.5	4.0813494
+Interactive	D00494	hsa1133	Yes	Yes	2.5	4.5320663
+Interactive	D00494	hsa148	Yes	Yes	2.5	3.8668613
+Interactive	D00494	hsa1812	Yes	2.5	3.0436559
+Interactive	D00494	hsa1813	Yes	Yes	2.5	3.8568099
+Interactive	D00494	hsa1816	Yes	2.5	3.5359418
+Interactive	D00494	hsa3269	Yes	Yes	2.5	4.456147
+Interactive	D00494	hsa3356	Yes	Yes	2.5	4.441611
+Interactive	D00494	hsa59340	Yes	Yes	2.5	2.7856836
+Interactive	D00498	hsa4988	Yes	Yes	2.5	3.1298833
+Interactive	D00499	hsa8843	Yes	Yes	2.5	2.5736656
+Interactive	D00503	hsa148	Yes	Yes	2.5	2.7854862
+Interactive	D00503	hsa1812	Yes	Yes	2.5	2.6518984
+Interactive	D00503	hsa1813	Yes	Yes	2.5	3.9160717
+Interactive	D00503	hsa1814	Yes	Yes	2.5	3.844236
+Interactive	D00503	hsa1816	Yes	2.5	3.1081548
+Interactive	D00503	hsa3356	Yes	2.5	2.8747911
+Interactive	D00509	hsa146	Yes	Yes	2.5	3.3816428
+Interactive	D00509	hsa147	Yes	Yes	2.5	3.049526
+Interactive	D00509	hsa148	Yes	Yes	2.5	3.306879
+Interactive	D00509	hsa150	Yes	Yes	2.5	3.0886178
+Interactive	D00509	hsa151	Yes	Yes	2.5	3.1393518
+Interactive	D00509	hsa152	Yes	Yes	2.5	3.2457337
+Interactive	D00513	hsa146	Yes	Yes	2.5	4.4022546
+Interactive	D00513	hsa147	Yes	Yes	2.5	4.2500305
+Interactive	D00513	hsa148	Yes	Yes	2.5	3.6556332
+Interactive	D00513	hsa150	Yes	Yes	2.5	4.03594
+Interactive	D00513	hsa151	Yes	Yes	2.5	3.726785
+Interactive	D00513	hsa152	Yes	2.5	2.55329
+Interactive	D00513	hsa153	Yes	Yes	2.5	5.300399
+Interactive	D00513	hsa154	Yes	Yes	2.5	4.723369
+Interactive	D00513	hsa155	Yes	Yes	2.5	4.8955026
+Interactive	D00513	hsa1814	Yes	2.5	2.5083866
+Interactive	D00513	hsa3350	Yes	Yes	2.5	4.5529346
+Interactive	D00513	hsa3351	Yes	Yes	2.5	3.9565918
+Interactive	D00513	hsa3352	Yes	Yes	2.5	5.3322525
+Interactive	D00513	hsa3354	Yes	Yes	2.5	4.4133377
+Interactive	D00513	hsa3355	Yes	Yes	2.5	5.0932827
+Interactive	D00513	hsa3356	Yes	Yes	2.5	5.0243015
+Interactive	D00513	hsa3357	Yes	Yes	2.5	5.2475495
+Interactive	D00513	hsa3358	Yes	Yes	2.5	5.3676996
+Interactive	D00513	hsa3360	Yes	Yes	2.5	3.7716424
+Interactive	D00513	hsa3361	Yes	Yes	2.5	4.1385546
+Interactive	D00513	hsa3362	Yes	Yes	2.5	3.9609158
+Interactive	D00513	hsa3363	Yes	2.5	3.812948
+Interactive	D00514	hsa150	Yes	Yes	2.5	3.6467013
+Interactive	D00514	hsa151	Yes	2.5	3.4314742
+Interactive	D00520	hsa154	Yes	2.5	2.8881912
+Interactive	D00520	hsa3269	Yes	Yes	2.5	3.177131
+Interactive	D00521	hsa3269	Yes	Yes	2.5	2.5044737
+Interactive	D00522	hsa185	Yes	Yes	2.5	2.9910808
+Interactive	D00523	hsa185	Yes	Yes	2.5	3.4450629
+Interactive	D00524	hsa1128	Yes	Yes	2.5	4.296879
+Interactive	D00524	hsa1129	Yes	Yes	2.5	3.807481
+Interactive	D00524	hsa1131	Yes	2.5	2.7990093
+Interactive	D00524	hsa1133	Yes	2.5	2.7908812
+Interactive	D00524	hsa8843	Yes	Yes	2.5	2.7587104
+Interactive	D00525	hsa154	Yes	2.5	2.9829702
+Interactive	D00528	hsa10161	Yes	Yes	2.5	3.1898463
+Interactive	D00528	hsa134	Yes	Yes	2.5	3.3135288
+Interactive	D00528	hsa135	Yes	Yes	2.5	4.1118436
+Interactive	D00528	hsa136	Yes	Yes	2.5	3.287012
+Interactive	D00528	hsa140	Yes	Yes	2.5	2.7280512
+Interactive	D00528	hsa2846	Yes	Yes	2.5	2.8162727
+Interactive	D00528	hsa3577	Yes	Yes	2.5	3.1722302
+Interactive	D00528	hsa5029	Yes	Yes	2.5	3.177719
+Interactive	D00528	hsa5030	Yes	Yes	2.5	3.2936852
+Interactive	D00528	hsa64805	Yes	Yes	2.5	2.5857668
+Interactive	D00528	hsa9934	Yes	Yes	2.5	3.0630412
+Interactive	D00540	hsa1129	Yes	Yes	2.5	2.6406708
+Interactive	D00559	hsa1814	Yes	Yes	2.5	2.8613043
+Interactive	D00560	hsa1812	Yes	Yes	2.5	4.0628376
+Interactive	D00560	hsa1813	Yes	Yes	2.5	5.2622423
+Interactive	D00560	hsa1814	Yes	Yes	2.5	4.8988004
+Interactive	D00560	hsa1816	Yes	Yes	2.5	4.5309844
+Interactive	D00560	hsa4985	Yes	Yes	2.5	3.1935406
+Interactive	D00563	hsa146	Yes	2.5	2.6430569
+Interactive	D00563	hsa147	Yes	2.5	2.6081114
+Interactive	D00563	hsa148	Yes	2.5	2.7972755
+Interactive	D00563	hsa150	Yes	Yes	2.5	3.6962023
+Interactive	D00563	hsa151	Yes	Yes	2.5	3.9773169
+Interactive	D00563	hsa152	Yes	2.5	2.6712627
+Interactive	D00563	hsa1813	Yes	2.5	2.8012266
+Interactive	D00563	hsa1814	Yes	2.5	2.6136293
+Interactive	D00563	hsa3350	Yes	2.5	3.1025186
+Interactive	D00563	hsa3356	Yes	Yes	2.5	5.3503895
+Interactive	D00563	hsa3357	Yes	2.5	3.4451427
+Interactive	D00563	hsa3358	Yes	Yes	2.5	4.5106535
+Interactive	D00563	hsa3362	Yes	2.5	2.6100192
+Interactive	D00574	hsa3577	Yes	Yes	2.5	3.0785923
+Interactive	D00598	hsa153	Yes	Yes	2.5	3.1429133
+Interactive	D00598	hsa154	Yes	Yes	2.5	3.4245887
+Interactive	D00601	hsa153	Yes	Yes	2.5	3.1117363
+Interactive	D00601	hsa154	Yes	Yes	2.5	3.8447921
+Interactive	D00604	hsa146	Yes	Yes	2.5	3.6567466
+Interactive	D00604	hsa147	Yes	2.5	3.014101
+Interactive	D00604	hsa148	Yes	2.5	2.5313632
+Interactive	D00604	hsa150	Yes	Yes	2.5	4.1787367
+Interactive	D00604	hsa151	Yes	Yes	2.5	3.7930617
+Interactive	D00604	hsa152	Yes	Yes	2.5	3.4932463
+Interactive	D00606	hsa150	Yes	Yes	2.5	4.796818
+Interactive	D00606	hsa151	Yes	Yes	2.5	4.213732
+Interactive	D00606	hsa152	Yes	Yes	2.5	3.1467361
+Interactive	D00607	hsa1128	Yes	2.5	2.716034
+Interactive	D00607	hsa146	Yes	Yes	2.5	3.1556172
+Interactive	D00607	hsa147	Yes	Yes	2.5	2.9644148
+Interactive	D00607	hsa148	Yes	Yes	2.5	3.7433045
+Interactive	D00607	hsa150	Yes	Yes	2.5	3.434472
+Interactive	D00607	hsa151	Yes	Yes	2.5	3.7028613
+Interactive	D00607	hsa152	Yes	Yes	2.5	3.1811857
+Interactive	D00607	hsa1813	Yes	2.5	2.7795315
+Interactive	D00607	hsa1814	Yes	2.5	2.5653315
+Interactive	D00607	hsa3356	Yes	2.5	3.1609776
+Interactive	D00609	hsa146	Yes	Yes	2.5	4.5250673
+Interactive	D00609	hsa147	Yes	Yes	2.5	4.465968
+Interactive	D00609	hsa148	Yes	Yes	2.5	4.138028
+Interactive	D00609	hsa150	Yes	Yes	2.5	3.8359137
+Interactive	D00609	hsa151	Yes	Yes	2.5	3.7587123
+Interactive	D00609	hsa152	Yes	Yes	2.5	3.304985
+Interactive	D00613	hsa147	Yes	2.5	2.5373645
+Interactive	D00613	hsa148	Yes	2.5	2.7421138
+Interactive	D00613	hsa150	Yes	Yes	2.5	4.8590603
+Interactive	D00613	hsa151	Yes	Yes	2.5	4.983551
+Interactive	D00613	hsa152	Yes	Yes	2.5	4.250882
+Interactive	D00613	hsa1812	Yes	Yes	2.5	4.224787
+Interactive	D00613	hsa1813	Yes	2.5	3.0980167
+Interactive	D00613	hsa1814	Yes	2.5	3.3837512
+Interactive	D00613	hsa1816	Yes	Yes	2.5	3.8374398
+Interactive	D00627	hsa185	Yes	Yes	2.5	3.1616328
+Interactive	D00632	hsa153	Yes	Yes	2.5	3.1513724
+Interactive	D00632	hsa154	Yes	Yes	2.5	3.5125628
+Interactive	D00635	hsa153	Yes	Yes	2.5	2.9927707
+Interactive	D00635	hsa154	Yes	Yes	2.5	2.7113218
+Interactive	D00635	hsa3356	Yes	2.5	3.1198254
+Interactive	D00645	hsa153	Yes	Yes	2.5	3.8296447
+Interactive	D00645	hsa154	Yes	Yes	2.5	4.1681848
+Interactive	D00646	hsa1128	Yes	Yes	2.5	4.2163997
+Interactive	D00646	hsa1129	Yes	Yes	2.5	3.831277
+Interactive	D00665	hsa3269	Yes	Yes	2.5	2.8312027
+Interactive	D00666	hsa3269	Yes	Yes	2.5	2.860927
+Interactive	D00673	hsa3274	Yes	Yes	2.5	3.164265
+Interactive	D00674	hsa1812	Yes	2.5	2.5044165
+Interactive	D00674	hsa1816	Yes	2.5	3.4360855
+Interactive	D00674	hsa3355	Yes	Yes	2.5	2.736203
+Interactive	D00675	hsa3351	Yes	Yes	2.5	3.5784743
+Interactive	D00675	hsa3352	Yes	Yes	2.5	3.842979
+Interactive	D00675	hsa3354	Yes	2.5	2.6451454
+Interactive	D00675	hsa3355	Yes	2.5	2.749482
+Interactive	D00676	hsa3351	Yes	Yes	2.5	3.187451
+Interactive	D00676	hsa3352	Yes	Yes	2.5	3.4987164
+Interactive	D00676	hsa3354	Yes	2.5	2.9651585
+Interactive	D00676	hsa3355	Yes	Yes	2.5	3.25419
+Interactive	D00683	hsa154	Yes	Yes	2.5	3.9276917
+Interactive	D00684	hsa154	Yes	Yes	2.5	3.3540664
+Interactive	D00688	hsa154	Yes	Yes	2.5	4.0686626
+Interactive	D00726	hsa1128	Yes	Yes	2.5	3.374569
+Interactive	D00726	hsa1812	Yes	2.5	3.2107677
+Interactive	D00726	hsa1813	Yes	Yes	2.5	4.649974
+Interactive	D00726	hsa1814	Yes	Yes	2.5	4.1324654
+Interactive	D00726	hsa1816	Yes	2.5	2.661131
+Interactive	D00726	hsa3350	Yes	Yes	2.5	4.173444
+Interactive	D00726	hsa3351	Yes	Yes	2.5	3.3993328
+Interactive	D00726	hsa3352	Yes	Yes	2.5	3.3839936
+Interactive	D00726	hsa3354	Yes	Yes	2.5	3.5439682
+Interactive	D00726	hsa3355	Yes	Yes	2.5	4.007944
+Interactive	D00726	hsa3356	Yes	Yes	2.5	4.4212084
+Interactive	D00726	hsa3357	Yes	Yes	2.5	3.1475992
+Interactive	D00726	hsa3358	Yes	Yes	2.5	4.2221317
+Interactive	D00726	hsa3360	Yes	Yes	2.5	3.812045
+Interactive	D00726	hsa3361	Yes	Yes	2.5	3.7801402
+Interactive	D00726	hsa3362	Yes	Yes	2.5	2.7084637
+Interactive	D00726	hsa3363	Yes	2.5	3.8816798
+Interactive	D00726	hsa8843	Yes	Yes	2.5	2.8634586
+Interactive	D00765	hsa1129	Yes	Yes	2.5	3.120897
+Interactive	D00765	hsa1131	Yes	2.5	2.5301929
+Interactive	D00769	hsa64805	Yes	Yes	2.5	2.8963456
+Interactive	D00775	hsa2911	Yes	Yes	2.5	3.2022822
+Interactive	D00775	hsa2912	Yes	Yes	2.5	2.687842
+Interactive	D00775	hsa2913	Yes	Yes	2.5	2.8092146
+Interactive	D00775	hsa2914	Yes	Yes	2.5	2.645626
+Interactive	D00775	hsa2915	Yes	Yes	2.5	2.989447
+Interactive	D00775	hsa2916	Yes	Yes	2.5	2.7820375
+Interactive	D00775	hsa2917	Yes	Yes	2.5	3.0040755
+Interactive	D00775	hsa2918	Yes	Yes	2.5	3.083036
+Interactive	D00779	hsa1128	Yes	Yes	2.5	2.704548
+Interactive	D00780	hsa1813	Yes	Yes	2.5	3.8758154
+Interactive	D00780	hsa1814	Yes	2.5	2.5106254
+Interactive	D00780	hsa3269	Yes	2.5	2.5331783
+Interactive	D00790	hsa1812	Yes	Yes	2.5	3.8764892
+Interactive	D00790	hsa1813	Yes	Yes	2.5	3.2879157
+Interactive	D00790	hsa1814	Yes	2.5	2.9184637
+Interactive	D00790	hsa1816	Yes	2.5	3.436083
+Interactive	D00790	hsa3356	Yes	2.5	2.6255045
+Interactive	D00837	hsa4986	Yes	Yes	2.5	2.6954563
+Interactive	D00837	hsa4988	Yes	Yes	2.5	2.9830196
+Interactive	D00838	hsa4986	Yes	Yes	2.5	2.891652
+Interactive	D00838	hsa4988	Yes	Yes	2.5	2.809372
+Interactive	D00845	hsa4988	Yes	Yes	2.5	3.3908794
+Interactive	D00954	hsa148	Yes	Yes	2.5	2.589573
+Interactive	D00965	hsa148	Yes	Yes	2.5	3.4949298
+Interactive	D00987	hsa1813	Yes	Yes	2.5	3.4747224
+Interactive	D00996	hsa146	Yes	Yes	2.5	4.874237
+Interactive	D00996	hsa147	Yes	Yes	2.5	4.392913
+Interactive	D00996	hsa148	Yes	Yes	2.5	4.4199057
+Interactive	D00996	hsa150	Yes	Yes	2.5	3.75758
+Interactive	D00996	hsa151	Yes	Yes	2.5	4.057762
+Interactive	D00996	hsa152	Yes	Yes	2.5	2.8416378
+Interactive	D00996	hsa153	Yes	Yes	2.5	4.054376
+Interactive	D00996	hsa154	Yes	Yes	2.5	4.3681426
+Interactive	D00996	hsa155	Yes	Yes	2.5	3.564403
+Interactive	D01020	hsa146	Yes	Yes	2.5	3.8553517
+Interactive	D01020	hsa147	Yes	Yes	2.5	3.5812986
+Interactive	D01020	hsa148	Yes	Yes	2.5	4.1248636
+Interactive	D01022	hsa146	Yes	Yes	2.5	4.070965
+Interactive	D01022	hsa147	Yes	Yes	2.5	3.7920957
+Interactive	D01022	hsa148	Yes	Yes	2.5	4.328955
+Interactive	D01022	hsa150	Yes	Yes	2.5	3.8934288
+Interactive	D01022	hsa151	Yes	Yes	2.5	4.3978043
+Interactive	D01022	hsa152	Yes	Yes	2.5	3.8460577
+Interactive	D01022	hsa1814	Yes	2.5	2.5022235
+Interactive	D01022	hsa3356	Yes	2.5	2.6071172
+Interactive	D01024	hsa146	Yes	Yes	2.5	3.8688383
+Interactive	D01024	hsa147	Yes	Yes	2.5	3.085896
+Interactive	D01024	hsa148	Yes	Yes	2.5	3.9368691
+Interactive	D01051	hsa146	Yes	Yes	2.5	3.8939824
+Interactive	D01051	hsa147	Yes	Yes	2.5	4.0215435
+Interactive	D01051	hsa148	Yes	Yes	2.5	4.5077066
+Interactive	D01051	hsa1813	Yes	2.5	3.2475557
+Interactive	D01051	hsa1814	Yes	2.5	3.0831177
+Interactive	D01051	hsa3350	Yes	Yes	2.5	3.9281309
+Interactive	D01051	hsa3356	Yes	Yes	2.5	4.5011196
+Interactive	D01051	hsa3358	Yes	2.5	3.247727
+Interactive	D01051	hsa3363	Yes	Yes	2.5	3.1854882
+Interactive	D01071	hsa3577	Yes	Yes	2.5	3.792253
+Interactive	D01126	hsa222545	Yes	Yes	2.5	2.5454345
+Interactive	D01164	hsa1813	Yes	Yes	2.5	3.2407196
+Interactive	D01164	hsa1814	Yes	Yes	2.5	3.2346153
+Interactive	D01164	hsa3350	Yes	Yes	2.5	3.4213834
+Interactive	D01164	hsa3356	Yes	Yes	2.5	3.3861709
+Interactive	D01164	hsa3357	Yes	Yes	2.5	2.8381233
+Interactive	D01164	hsa3358	Yes	Yes	2.5	3.3055792
+Interactive	D01227	hsa1909	Yes	Yes	2.5	2.6325676
+Interactive	D01227	hsa1910	Yes	Yes	2.5	2.9749959
+Interactive	D01227	hsa4985	Yes	2.5	2.7675118
+Interactive	D01227	hsa4986	Yes	2.5	2.9024644
+Interactive	D01227	hsa4988	Yes	2.5	3.053483
+Interactive	D01242	hsa3269	Yes	Yes	2.5	2.8209262
+Interactive	D01269	hsa1128	Yes	Yes	2.5	3.9521413
+Interactive	D01295	hsa1812	Yes	Yes	2.5	3.0832448
+Interactive	D01295	hsa1813	Yes	Yes	2.5	3.5826418
+Interactive	D01295	hsa1814	Yes	Yes	2.5	3.0549338
+Interactive	D01295	hsa1816	Yes	Yes	2.5	4.097102
+Interactive	D01295	hsa3269	Yes	Yes	2.5	3.7484322
+Interactive	D01332	hsa3269	Yes	Yes	2.5	3.2757268
+Interactive	D01352	hsa5731	Yes	2.5	3.2598605
+Interactive	D01352	hsa5732	Yes	2.5	2.949285
+Interactive	D01352	hsa5737	Yes	Yes	2.5	3.03888
+Interactive	D01352	hsa5739	Yes	Yes	2.5	3.3732486
+Interactive	D01358	hsa146	Yes	Yes	2.5	3.8572922
+Interactive	D01358	hsa147	Yes	Yes	2.5	3.7568703
+Interactive	D01358	hsa148	Yes	Yes	2.5	3.861351
+Interactive	D01358	hsa3356	Yes	Yes	2.5	4.268235
+Interactive	D01358	hsa3358	Yes	2.5	2.5827725
+Interactive	D01386	hsa153	Yes	2.5	2.5911717
+Interactive	D01386	hsa154	Yes	Yes	2.5	3.1506963
+Interactive	D01390	hsa153	Yes	Yes	2.5	4.723092
+Interactive	D01390	hsa154	Yes	Yes	2.5	5.3095417
+Interactive	D01390	hsa155	Yes	Yes	2.5	3.3584347
+Interactive	D01454	hsa153	Yes	Yes	2.5	3.994877
+Interactive	D01454	hsa154	Yes	Yes	2.5	4.173423
+Interactive	D01454	hsa155	Yes	Yes	2.5	2.8712592
+Interactive	D01462	hsa1813	Yes	Yes	2.5	4.0384235
+Interactive	D01462	hsa1814	Yes	2.5	2.5319037
+Interactive	D01462	hsa3356	Yes	2.5	3.3407674
+Interactive	D01603	hsa146	Yes	Yes	2.5	5.6861224
+Interactive	D01603	hsa147	Yes	Yes	2.5	5.4215317
+Interactive	D01603	hsa148	Yes	Yes	2.5	4.663888
+Interactive	D01603	hsa150	Yes	Yes	2.5	4.9333324
+Interactive	D01603	hsa151	Yes	Yes	2.5	4.655629
+Interactive	D01603	hsa152	Yes	Yes	2.5	4.281085
+Interactive	D01603	hsa153	Yes	2.5	2.717909
+Interactive	D01603	hsa3356	Yes	2.5	2.687136
+Interactive	D01692	hsa148	Yes	Yes	2.5	2.9265032
+Interactive	D01699	hsa1131	Yes	Yes	2.5	2.705083
+Interactive	D01712	hsa134	Yes	Yes	2.5	3.0739534
+Interactive	D01712	hsa135	Yes	Yes	2.5	3.3274603
+Interactive	D01712	hsa136	Yes	2.5	2.8542247
+Interactive	D01713	hsa1128	Yes	2.5	2.5518863
+Interactive	D01713	hsa1129	Yes	2.5	2.5699694
+Interactive	D01713	hsa146	Yes	Yes	2.5	5.0344896
+Interactive	D01713	hsa147	Yes	Yes	2.5	4.740418
+Interactive	D01713	hsa148	Yes	Yes	2.5	4.692321
+Interactive	D01713	hsa150	Yes	Yes	2.5	4.7875457
+Interactive	D01713	hsa151	Yes	Yes	2.5	4.9940367
+Interactive	D01713	hsa152	Yes	2.5	4.388028
+Interactive	D01713	hsa1812	Yes	2.5	2.5307684
+Interactive	D01713	hsa1813	Yes	2.5	2.8244457
+Interactive	D01713	hsa1814	Yes	2.5	2.7638874
+Interactive	D01713	hsa3269	Yes	Yes	2.5	2.791432
+Interactive	D01713	hsa3274	Yes	Yes	2.5	2.8741693
+Interactive	D01713	hsa3350	Yes	2.5	3.7447033
+Interactive	D01713	hsa3352	Yes	2.5	3.1270914
+Interactive	D01713	hsa3354	Yes	2.5	2.7397356
+Interactive	D01713	hsa3355	Yes	2.5	3.1930594
+Interactive	D01713	hsa3356	Yes	Yes	2.5	5.4353113
+Interactive	D01713	hsa3357	Yes	2.5	3.1874175
+Interactive	D01713	hsa3358	Yes	2.5	4.163215
+Interactive	D01713	hsa3363	Yes	2.5	2.835195
+Interactive	D01717	hsa23620	Yes	Yes	2.5	2.5908227
+Interactive	D01717	hsa3269	Yes	Yes	2.5	3.2762408
+Interactive	D01871	hsa1128	Yes	Yes	2.5	4.190636
+Interactive	D01871	hsa1129	Yes	Yes	2.5	3.9348364
+Interactive	D01871	hsa1131	Yes	Yes	2.5	3.8823295
+Interactive	D01871	hsa1132	Yes	Yes	2.5	2.7186372
+Interactive	D01871	hsa1133	Yes	Yes	2.5	3.2167377
+Interactive	D01871	hsa3269	Yes	2.5	3.0808
+Interactive	D01871	hsa3356	Yes	2.5	2.5028744
+Interactive	D01891	hsa5737	Yes	2.5	2.8291142
+Interactive	D01925	hsa7201	Yes	Yes	2.5	2.7731082
+Interactive	D01964	hsa5737	Yes	Yes	2.5	2.9123724
+Interactive	D01965	hsa146	Yes	Yes	2.5	3.0441341
+Interactive	D01965	hsa147	Yes	Yes	2.5	2.8247766
+Interactive	D01965	hsa148	Yes	Yes	2.5	3.3409252
+Interactive	D01973	hsa3350	Yes	Yes	2.5	2.738068
+Interactive	D01973	hsa3351	Yes	Yes	2.5	3.4404836
+Interactive	D01973	hsa3352	Yes	Yes	2.5	3.5737672
+Interactive	D01973	hsa3354	Yes	Yes	2.5	3.0556524
+Interactive	D01973	hsa3355	Yes	Yes	2.5	3.2011771
+Interactive	D01973	hsa3363	Yes	Yes	2.5	2.9425063
+Interactive	D01994	hsa3360	Yes	Yes	2.5	2.7100432
+Interactive	D02007	hsa7201	Yes	Yes	2.5	2.6853192
+Interactive	D02066	hsa153	Yes	Yes	2.5	4.1085215
+Interactive	D02066	hsa154	Yes	Yes	2.5	4.606981
+Interactive	D02066	hsa155	Yes	Yes	2.5	2.9019518
+Interactive	D02070	hsa1128	Yes	Yes	2.5	4.2284155
+Interactive	D02070	hsa1129	Yes	Yes	2.5	3.5478837
+Interactive	D02070	hsa1131	Yes	Yes	2.5	4.224477
+Interactive	D02070	hsa1132	Yes	Yes	2.5	2.9762032
+Interactive	D02070	hsa1133	Yes	Yes	2.5	3.6049047
+Interactive	D02070	hsa3269	Yes	2.5	2.5806818
+Interactive	D02076	hsa150	Yes	Yes	2.5	3.815742
+Interactive	D02076	hsa151	Yes	Yes	2.5	3.4531393
+Interactive	D02076	hsa152	Yes	Yes	2.5	2.898756
+Interactive	D02082	hsa185	Yes	Yes	2.5	2.9502506
+Interactive	D02147	hsa153	Yes	2.5	3.0762286
+Interactive	D02147	hsa154	Yes	Yes	2.5	3.6991942
+Interactive	D02149	hsa146	Yes	Yes	2.5	4.7989855
+Interactive	D02149	hsa147	Yes	Yes	2.5	4.663026
+Interactive	D02149	hsa148	Yes	Yes	2.5	4.605466
+Interactive	D02149	hsa150	Yes	Yes	2.5	3.3033316
+Interactive	D02149	hsa151	Yes	Yes	2.5	3.2496953
+Interactive	D02149	hsa153	Yes	Yes	2.5	5.14304
+Interactive	D02149	hsa154	Yes	Yes	2.5	5.368593
+Interactive	D02149	hsa155	Yes	Yes	2.5	4.368818
+Interactive	D02150	hsa153	Yes	Yes	2.5	4.6859875
+Interactive	D02150	hsa154	Yes	Yes	2.5	5.0050097
+Interactive	D02150	hsa155	Yes	Yes	2.5	3.6625493
+Interactive	D02234	hsa146	Yes	Yes	2.5	4.744009
+Interactive	D02234	hsa147	Yes	Yes	2.5	4.5154314
+Interactive	D02234	hsa148	Yes	Yes	2.5	4.2200146
+Interactive	D02234	hsa150	Yes	2.5	2.5161824
+Interactive	D02234	hsa151	Yes	2.5	2.550006
+Interactive	D02234	hsa3356	Yes	2.5	2.560457
+Interactive	D02237	hsa146	Yes	Yes	2.5	4.6559963
+Interactive	D02237	hsa147	Yes	Yes	2.5	3.999176
+Interactive	D02237	hsa148	Yes	Yes	2.5	4.034204
+Interactive	D02237	hsa150	Yes	Yes	2.5	4.43645
+Interactive	D02237	hsa151	Yes	Yes	2.5	4.3795033
+Interactive	D02237	hsa152	Yes	Yes	2.5	3.9016774
+Interactive	D02250	hsa6752	Yes	Yes	2.5	2.6222556
+Interactive	D02278	hsa222545	Yes	Yes	2.5	2.8651824
+Interactive	D02279	hsa222545	Yes	Yes	2.5	2.7695978
+Interactive	D02327	hsa1128	Yes	Yes	2.5	3.2130265
+Interactive	D02327	hsa1129	Yes	2.5	2.8664308
+Interactive	D02327	hsa3269	Yes	Yes	2.5	4.096156
+Interactive	D02338	hsa153	Yes	Yes	2.5	4.457713
+Interactive	D02338	hsa154	Yes	Yes	2.5	4.9767175
+Interactive	D02338	hsa155	Yes	Yes	2.5	3.1619337
+Interactive	D02340	hsa1812	Yes	2.5	2.5807042
+Interactive	D02340	hsa1813	Yes	Yes	2.5	3.8148522
+Interactive	D02340	hsa1814	Yes	Yes	2.5	3.1245303
+Interactive	D02340	hsa1816	Yes	2.5	3.1211197
+Interactive	D02340	hsa3269	Yes	2.5	2.5582047
+Interactive	D02340	hsa3356	Yes	Yes	2.5	4.364549
+Interactive	D02340	hsa3358	Yes	2.5	2.6473036
+Interactive	D02342	hsa153	Yes	Yes	2.5	3.3941617
+Interactive	D02342	hsa154	Yes	Yes	2.5	3.8317719
+Interactive	D02349	hsa150	Yes	Yes	2.5	2.6203709
+Interactive	D02354	hsa1128	Yes	Yes	2.5	5.8752446
+Interactive	D02354	hsa1129	Yes	Yes	2.5	5.2298603
+Interactive	D02354	hsa1131	Yes	Yes	2.5	4.7687807
+Interactive	D02354	hsa1132	Yes	Yes	2.5	4.0806837
+Interactive	D02354	hsa1133	Yes	Yes	2.5	4.6470165
+Interactive	D02354	hsa148	Yes	2.5	3.466796
+Interactive	D02354	hsa1812	Yes	Yes	2.5	4.556452
+Interactive	D02354	hsa1813	Yes	Yes	2.5	5.7500887
+Interactive	D02354	hsa1814	Yes	2.5	4.4784374
+Interactive	D02354	hsa1815	Yes	Yes	2.5	2.8807569
+Interactive	D02354	hsa1816	Yes	2.5	5.22304
+Interactive	D02354	hsa3269	Yes	Yes	2.5	4.6439548
+Interactive	D02354	hsa3350	Yes	2.5	2.9002442
+Interactive	D02354	hsa3356	Yes	Yes	2.5	6.3762894
+Interactive	D02354	hsa3358	Yes	Yes	2.5	4.448277
+Interactive	D02354	hsa3362	Yes	2.5	2.816226
+Interactive	D02354	hsa3363	Yes	2.5	2.5818276
+Interactive	D02356	hsa1128	Yes	Yes	2.5	5.286296
+Interactive	D02356	hsa1129	Yes	Yes	2.5	4.7661014
+Interactive	D02356	hsa1131	Yes	2.5	3.4869738
+Interactive	D02356	hsa1132	Yes	2.5	2.9595032
+Interactive	D02356	hsa1133	Yes	2.5	3.2806683
+Interactive	D02356	hsa146	Yes	Yes	2.5	4.1308203
+Interactive	D02356	hsa147	Yes	Yes	2.5	4.5740056
+Interactive	D02356	hsa148	Yes	Yes	2.5	4.7762933
+Interactive	D02356	hsa150	Yes	Yes	2.5	4.046682
+Interactive	D02356	hsa151	Yes	Yes	2.5	4.292099
+Interactive	D02356	hsa152	Yes	2.5	3.6228147
+Interactive	D02356	hsa153	Yes	2.5	2.915389
+Interactive	D02356	hsa3356	Yes	2.5	2.5332718
+Interactive	D02357	hsa3356	Yes	Yes	2.5	3.6644425
+Interactive	D02358	hsa153	Yes	Yes	2.5	2.9372084
+Interactive	D02358	hsa154	Yes	2.5	3.2317467
+Interactive	D02359	hsa153	Yes	2.5	3.0404377
+Interactive	D02359	hsa154	Yes	Yes	2.5	3.559001
+Interactive	D02361	hsa1128	Yes	Yes	2.5	4.1179824
+Interactive	D02361	hsa1129	Yes	Yes	2.5	4.396865
+Interactive	D02361	hsa1131	Yes	Yes	2.5	3.4525416
+Interactive	D02361	hsa1132	Yes	Yes	2.5	3.035624
+Interactive	D02361	hsa1133	Yes	Yes	2.5	3.5205886
+Interactive	D02361	hsa146	Yes	Yes	2.5	2.833065
+Interactive	D02361	hsa147	Yes	Yes	2.5	3.5334854
+Interactive	D02361	hsa148	Yes	Yes	2.5	4.501066
+Interactive	D02361	hsa153	Yes	2.5	2.9796386
+Interactive	D02361	hsa1812	Yes	Yes	2.5	2.975739
+Interactive	D02361	hsa1813	Yes	Yes	2.5	3.3491817
+Interactive	D02361	hsa1816	Yes	2.5	3.073978
+Interactive	D02361	hsa3269	Yes	Yes	2.5	3.953988
+Interactive	D02361	hsa3356	Yes	Yes	2.5	5.0679116
+Interactive	D02361	hsa3358	Yes	Yes	2.5	3.3548815
+Interactive	D02374	hsa153	Yes	Yes	2.5	4.424941
+Interactive	D02374	hsa154	Yes	Yes	2.5	4.7431808
+Interactive	D02374	hsa155	Yes	Yes	2.5	3.1944933
+Interactive	D02566	hsa11255	Yes	Yes	2.5	2.5619555
+Interactive	D02566	hsa1128	Yes	2.5	2.782171
+Interactive	D02566	hsa1129	Yes	2.5	3.1275163
+Interactive	D02566	hsa148	Yes	Yes	2.5	3.2322836
+Interactive	D02566	hsa3269	Yes	Yes	2.5	3.4079206
+Interactive	D02578	hsa153	Yes	2.5	2.6106372
+Interactive	D02578	hsa3356	Yes	2.5	3.8315065
+Interactive	D02578	hsa3358	Yes	Yes	2.5	3.4800413
+Interactive	D02588	hsa7201	Yes	Yes	2.5	2.8149564
+Interactive	D02614	hsa153	Yes	Yes	2.5	3.310296
+Interactive	D02614	hsa154	Yes	2.5	3.1424713
+Interactive	D02671	hsa1128	Yes	2.5	2.877071
+Interactive	D02671	hsa148	Yes	2.5	2.9263463
+Interactive	D02671	hsa1812	Yes	Yes	2.5	4.2696476
+Interactive	D02671	hsa1813	Yes	Yes	2.5	5.3503904
+Interactive	D02671	hsa1814	Yes	Yes	2.5	4.491114
+Interactive	D02671	hsa1816	Yes	Yes	2.5	5.0025883
+Interactive	D02671	hsa3356	Yes	Yes	2.5	4.9549203
+Interactive	D02671	hsa3358	Yes	2.5	2.7939858
+Interactive	D02721	hsa5731	Yes	Yes	2.5	3.4689987
+Interactive	D02721	hsa5732	Yes	2.5	2.988805
+Interactive	D02721	hsa5737	Yes	2.5	3.1271307
+Interactive	D02721	hsa5739	Yes	Yes	2.5	3.1708968
+Interactive	D02725	hsa5731	Yes	Yes	2.5	3.252051
+Interactive	D02725	hsa5732	Yes	2.5	2.7065945
+Interactive	D02725	hsa5733	Yes	Yes	2.5	2.627987
+Interactive	D02725	hsa5737	Yes	2.5	3.1418605
+Interactive	D02826	hsa3352	Yes	Yes	2.5	2.804887
+Interactive	D02884	hsa134	Yes	Yes	2.5	3.0412533
+Interactive	D02884	hsa135	Yes	Yes	2.5	3.4591274
+Interactive	D02884	hsa136	Yes	2.5	2.7210534
+Interactive	D02910	hsa148	Yes	Yes	2.5	3.0650387
+Interactive	D02910	hsa153	Yes	Yes	2.5	3.0067205
+Interactive	D02910	hsa154	Yes	2.5	2.684883
+Interactive	D03165	hsa1813	Yes	Yes	2.5	2.8404255
+Interactive	D03187	hsa5731	Yes	2.5	2.8415933
+Interactive	D03187	hsa5732	Yes	Yes	2.5	2.9192188
+Interactive	D03187	hsa5737	Yes	2.5	2.8738718
+Interactive	D03187	hsa5739	Yes	2.5	2.74135
+Interactive	D03274	hsa146	Yes	2.5	2.9319038
+Interactive	D03274	hsa147	Yes	2.5	2.789507
+Interactive	D03274	hsa148	Yes	2.5	2.68854
+Interactive	D03274	hsa150	Yes	Yes	2.5	4.392559
+Interactive	D03274	hsa151	Yes	Yes	2.5	4.1359124
+Interactive	D03274	hsa152	Yes	Yes	2.5	3.5846567
+Interactive	D03365	hsa8843	Yes	Yes	2.5	2.6749504
+Interactive	D03415	hsa153	Yes	Yes	2.5	4.0175185
+Interactive	D03415	hsa154	Yes	Yes	2.5	4.5358872
+Interactive	D03415	hsa155	Yes	Yes	2.5	2.9303489
+Interactive	D03442	hsa886	Yes	Yes	2.5	2.815657
+Interactive	D03442	hsa887	Yes	Yes	2.5	2.5211587
+Interactive	D03490	hsa153	Yes	Yes	2.5	3.687406
+Interactive	D03490	hsa154	Yes	Yes	2.5	3.7635374
+Interactive	D03503	hsa3274	Yes	Yes	2.5	3.0613732
+Interactive	D03621	hsa1128	Yes	Yes	2.5	3.5273814
+Interactive	D03621	hsa1129	Yes	Yes	2.5	3.4890866
+Interactive	D03621	hsa1131	Yes	Yes	2.5	3.0475252
+Interactive	D03621	hsa1133	Yes	2.5	2.5371587
+Interactive	D03621	hsa3269	Yes	Yes	2.5	3.7724779
+Interactive	D03642	hsa6915	Yes	Yes	2.5	2.5783937
+Interactive	D03858	hsa1128	Yes	Yes	2.5	2.9428196
+Interactive	D03858	hsa1129	Yes	Yes	2.5	2.661676
+Interactive	D03879	hsa153	Yes	Yes	2.5	4.7950196
+Interactive	D03879	hsa154	Yes	Yes	2.5	5.180279
+Interactive	D03879	hsa155	Yes	Yes	2.5	3.171089
+Interactive	D03880	hsa153	Yes	Yes	2.5	3.4270964
+Interactive	D03880	hsa154	Yes	Yes	2.5	3.8934586
+Interactive	D03881	hsa153	Yes	Yes	2.5	3.7194393
+Interactive	D03881	hsa154	Yes	Yes	2.5	4.131792
+Interactive	D03966	hsa2912	Yes	Yes	2.5	2.7452312
+Interactive	D03966	hsa2913	Yes	Yes	2.5	3.1971793
+Interactive	D03966	hsa2916	Yes	Yes	2.5	3.1485143
+Interactive	D03966	hsa2918	Yes	Yes	2.5	3.1608057
+Interactive	D04034	hsa150	Yes	Yes	2.5	3.351446
+Interactive	D04034	hsa151	Yes	Yes	2.5	2.843956
+Interactive	D04034	hsa152	Yes	Yes	2.5	2.564074
+Interactive	D04040	hsa185	Yes	Yes	2.5	3.1251264
+Interactive	D04625	hsa153	Yes	Yes	2.5	3.5785837
+Interactive	D04625	hsa154	Yes	2.5	3.8861022
+Interactive	D04716	hsa4988	Yes	Yes	2.5	3.1886544
+Interactive	D04979	hsa3269	Yes	Yes	2.5	3.4808154
+Interactive	D04979	hsa3356	Yes	2.5	2.7298717
+Interactive	D05129	hsa10800	Yes	Yes	2.5	2.6815143
+Interactive	D05129	hsa57105	Yes	Yes	2.5	2.8549023
+Interactive	D05312	hsa4985	Yes	Yes	2.5	2.7829354
+Interactive	D05312	hsa4986	Yes	Yes	2.5	3.1515532
+Interactive	D05312	hsa4988	Yes	Yes	2.5	3.3740706
+Interactive	D05341	hsa6010	Yes	Yes	2.5	2.7642357
+Interactive	D05740	hsa3351	Yes	Yes	2.5	2.954629
+Interactive	D05740	hsa3352	Yes	Yes	2.5	2.987115
+Interactive	D05792	hsa154	Yes	Yes	2.5	2.6568923
+Interactive	D05938	hsa4988	Yes	Yes	2.5	2.6259573
+Interactive	D06056	hsa3360	Yes	Yes	2.5	2.7997541
+Interactive	D06396	hsa3360	Yes	Yes	2.5	2.9911146
